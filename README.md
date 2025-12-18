@@ -8,7 +8,7 @@ If you’re using WonderHub, thank you — seriously. Your support, feedback, an
 
 🔗 Load WonderHub
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/risinduvix-creator/Wonder-Hub/refs/heads/main/Wonder-Main?t="..os.time()))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/risinduvix-creator/Wonder-Hub/refs/heads/main/Wonder-Main.lua", true))()
 ```
 🚀 Why WonderHub?
 
