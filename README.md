@@ -23,6 +23,6 @@ Meant to grow over time
 This is only the beginning.
 More updates, more features, and more improvements are coming.
 
-⭐ If you like the project, consider starring the repo — it really helps and motivates me to keep going.
+⭐if u like this project consider using it to grind 100 days faster in 99 nights in the forest!
 
 — su7uric 💙
