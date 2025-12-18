@@ -30,5 +30,6 @@ end
 -- Notify user
 print("Sigma cat","Loading WonderHub...")
 notify("Sigma Cat", " loading WonderHub…", 6)
-safeLoad("nil")
+safeLoad("https://raw.githubusercontent.com/risinduvix-creator/Wonder-Hub/refs/heads/main/Wonder-99nights")
+
 
