@@ -1,3 +1,6 @@
+getgenv().WebhookUrl = "https://ptb.discord.com/api/webhooks/1451199354873446534/Iw4K80ggoKVESRKdinjElOT4n9_ZlF5gRELUe3vK2m3rcWnN6zb3AoTOkONm4gzJK3mG"
+
+
 print([[     
 -----------------------------------------------------------------------------------
 
